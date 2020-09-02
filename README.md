@@ -1,5 +1,5 @@
 **Name**: Happy Pham
 
-**Assignment Name**: Assignment 1A: Create Glitch Account and Page
+**Assignment Name**: Assignment 2A: GitHub
 
-**Date**: August 25, 2020
+**Date**: Septemper 1st, 2020
